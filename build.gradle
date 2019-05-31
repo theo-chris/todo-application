@@ -1,0 +1,22 @@
+apply plugin: 'java'
+apply plugin: 'groovy'
+apply plugin: 'application'
+
+mainClassName = 'taskapp.application.Main'
+
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+  compile 'org.beryx:text-io:2.7.2'
+  testCompile "org.spockframework:spock-core:1.1-groovy-2.4"
+}
+
+// Spock test reporting
+test {
+    testLogging {
+        events "passed", "skipped", "failed"
+    }
+}
