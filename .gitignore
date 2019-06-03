@@ -3,7 +3,7 @@
 out/
 .idea/
 *.iml
-/bin/
+bin/
 .classpath
 .project
 
