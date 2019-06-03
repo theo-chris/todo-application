@@ -1,4 +1,12 @@
-[![Build Status](https://travis-ci.com/UOL-CS/co2012-1718-ws2-group-27.svg?token=hQ1cWgzWaVvRySRyxLsq&branch=master)](https://travis-ci.com/UOL-CS/co2012-1718-ws2-group-27)
-# co2012-1718-ws2-group-27
-CO2012 Worksheet 2 Repository
 
+# Todo-Application
+Simple todo-application created by a group I was part of during my second year at University.
+
+**What did I learn?**
+* Agile/Scrum with Pivotal Tracker.
+* Simple console application using TextIO library.
+* Git.
+* CI with Travis-CI.
+
+**To Run:**
+Simply execute the jar file <TARunnable.jar>.

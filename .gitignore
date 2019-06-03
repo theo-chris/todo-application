@@ -1,5 +1,11 @@
 .gradle
 /build/
+out/
+.idea/
+*.iml
+bin/
+.classpath
+.project
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -14,6 +20,4 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties 
 .idea
 .settings*
-out/
-.idea/
-*.iml
+
