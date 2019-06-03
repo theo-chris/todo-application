@@ -17,4 +17,6 @@ gradle-app.setting
 out/
 .idea/
 *.iml
-bin/
+/bin/
+.classpath
+.project
